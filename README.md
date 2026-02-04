@@ -1,16 +1,13 @@
-## Hi there 👋
+### 🛠 Tech Stack
 
-<!--
-**nicolasbartsch/nicolasbartsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend & Backend**
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=angular,react,vue,js,ts,html,css,tailwind,java,spring,python,fastapi)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Database & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,redis,docker,kubernetes,bash,git,github,gitlab,npm)](https://skillicons.dev)
+
+---
+![Nic's GitHub stats](https://github-readme-stat-alpha-blond.vercel.app/api?username=nicolasbartsch&show_icons=true&theme=transparent)
